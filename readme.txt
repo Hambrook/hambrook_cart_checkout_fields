@@ -1,0 +1,1 @@
+Add fees/options/upsells that visitors can add to their shipping costs at checkout. Useful for Giftwrapping, Tracking, Fastpost etc. Will later add fields for referrer, accept terms etc.
